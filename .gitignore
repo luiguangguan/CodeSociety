@@ -3,6 +3,8 @@
 ################################################################################
 
 /CodeSociety/.vs/CodeSociety
-/CodeSociety/HumanResources/obj/Debug
+/CodeSociety/HumanResources/obj/
+/CodeSociety/HumanResources/bin/
 /.vs
-/CodeSociety/HumanResources/obj/Release
+/CodeSociety/TestHR/bin/
+/CodeSociety/TestHR/obj/

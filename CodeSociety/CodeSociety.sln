@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResources", "HumanReso
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Organization", "Organization", "{B119A9C9-0846-4520-9F9C-59FA60CCB9FE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestProject", "TestProject", "{A8B70114-B0FF-4E3D-9216-90F062EA8EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHR", "TestHR\TestHR.csproj", "{97428830-9BE1-47EB-854D-A425F33654CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{8529A40B-C724-4299-ACD3-C849C135DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8529A40B-C724-4299-ACD3-C849C135DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8529A40B-C724-4299-ACD3-C849C135DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97428830-9BE1-47EB-854D-A425F33654CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97428830-9BE1-47EB-854D-A425F33654CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97428830-9BE1-47EB-854D-A425F33654CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97428830-9BE1-47EB-854D-A425F33654CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8529A40B-C724-4299-ACD3-C849C135DF3D} = {B119A9C9-0846-4520-9F9C-59FA60CCB9FE}
+		{97428830-9BE1-47EB-854D-A425F33654CC} = {A8B70114-B0FF-4E3D-9216-90F062EA8EC4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACC266DE-F732-417C-837A-0FD81CB4CBFD}
